@@ -5,6 +5,10 @@
 
 <!-- badges: start -->
 
+[![CRAN
+status](https://www.r-pkg.org/badges/version/ffiec)](https://CRAN.R-project.org/package=ffiec)
+[![metacran
+downloads](https://cranlogs.r-pkg.org/badges/grand-total/ffiec)](https://cran.r-project.org/package=ffiec)
 [![R-CMD-check](https://github.com/ketchbrookanalytics/ffiec/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ketchbrookanalytics/ffiec/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
